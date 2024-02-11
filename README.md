@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working with **Kotlin and anything related with Android.**
 
-- 💬 Ask me about **Kotlin, Java and Python**
+- 💬 Ask me about **Kotlin and Python**
 
 - 📫 How to reach me **kemalgeylaniyuki@gmail.com**
 
